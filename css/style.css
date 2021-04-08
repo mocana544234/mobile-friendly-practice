@@ -1,0 +1,15 @@
+H1.section-title{
+    float: left;
+}
+p.first{
+    float: left;
+}
+div.section_title{
+    float: right;
+}
+h1.second{
+    float: right;
+}
+p.second{
+    float: right;
+}
